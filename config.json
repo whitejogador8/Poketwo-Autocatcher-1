@@ -1,9 +1,9 @@
 {
-  "ocrSpaceApiKey" : "Put Your OCR SPACE KEY", 
-  "spamChannelID" : "Put Your Spam Channel ID", 
-  "logChannelID" : "Put Your Log Channel ID", 
-  "errorChannelID" : "Put Your Error Channel ID", 
-  "OwnerID" : "Put Your Main Account ID",
-  "TOKEN" : "Put Your TOKEN(if in replit , I'd recommend to put it in secret rather than here)"
+  "ocrSpaceApiKey" : "K89025287288957", 
+  "spamChannelID" : "1115677863564292156", 
+  "logChannelID" : "1117050895998390272", 
+  "errorChannelID" : "1109221486633439242", 
+  "OwnerID" : "1462516327997509826",
+  "TOKEN" : "MTQ2MjUxNjMyNzk5NzUwOTgyNg.GgGBMS.uixlin09P7WzoA9XIbMEoO_heAmTjbd1fKlxnM"
 }
 
